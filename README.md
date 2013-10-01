@@ -3,7 +3,7 @@ Introduction
 
 I have been working through Bruce Tate's excellent '7 languages in 7 weeks'.  
 Installing the Io language manually is a bit of a fiddle: [http://haildata.net/2013/10/installing-io/](http://haildata.net/2013/10/installing-io/)  
-This git repository simplifies the process hopefully - just git clone and vagrant up ...    
+This git repository simplifies the process hopefully - just *git clone* and *vagrant up* ...    
 
 
 Instructions
@@ -41,6 +41,6 @@ Sample output
 todo: 
 -----
 
-     you currently need to be root ... I ought to be able to setup as the vagrant user
+     you currently need to be root ... I ought to be able to setup as the vagrant user!?
 
 
