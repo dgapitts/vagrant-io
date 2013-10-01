@@ -13,8 +13,8 @@ Instructions
      cd vagrant-io
      vagrant up
 
-Test the new ioVM
------------------
+Test your new io Virtual Machine
+--------------------------------
 
      vagrant ssh
      sudo -i
